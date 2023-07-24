@@ -1,2 +1,4 @@
-print('enter your name')
-print ('hello', input ())
+print('enter your name:')
+name=input ()
+print ('hello', name)
+print ('gg', name)
